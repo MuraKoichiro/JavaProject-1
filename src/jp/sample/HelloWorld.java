@@ -5,7 +5,7 @@ public class HelloWorld {
 	 public static String[] data = new String[38];
 
 	public static void main (String[] args) {
-		data[0] = "å­¦ç±ç•ªå·ï¼šè¶£å‘³";
+		data[0] = "ŠwĞ”Ô†:ï–¡";
 		data[1] = "";
 		data[2] = "";
 		data[3] = "";
@@ -35,14 +35,14 @@ public class HelloWorld {
 		data[27] = "";
 		data[28] = "";
 		data[29] = "";
-		data[30] = "";
+		data[30] = "4161130:“®‰æŠÓÜ";
 		data[31] = "";
 		data[32] = "";
 		data[33] = "";
 		data[34] = "";
 		data[35] = "";
 		data[36] = "";
-		data[37] = "ãŠã‚ã‚Š";
+		data[37] = "I‚í‚è";
 
 		for (int i = 0;i < data.length; ++i) {
 			System.out.println(data[i]);
